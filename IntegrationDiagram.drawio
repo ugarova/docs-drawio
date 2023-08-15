@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:32:19.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="suzERC6r5H1HFxEDFAoi" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T12:34:51.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kx89qpykC3NuiwqPR7n_" version="21.6.8" type="github">
   <diagram name="Страница — 1" id="WWRPlEPpIuUE59BAEwwI">
     <mxGraphModel dx="1938" dy="-1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="P-ReLicF2Mn8y8o5vw4O-5" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="P-ReLicF2Mn8y8o5vw4O-4">
           <mxGeometry x="45" y="80" width="10" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="P-ReLicF2Mn8y8o5vw4O-139" value="2. Запрос на проверку &#xa;доступа для добавления &#xa;авторизационных данных" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;exitX=1.099;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.042;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="P-ReLicF2Mn8y8o5vw4O-4">
+        <mxCell id="P-ReLicF2Mn8y8o5vw4O-139" value="2. Запрос на проверку&#xa; добавления &#xa;авторизационных данных" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;exitX=1.099;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.042;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="P-ReLicF2Mn8y8o5vw4O-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="80" as="sourcePoint" />
             <mxPoint x="235" y="80" as="targetPoint" />
